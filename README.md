@@ -147,30 +147,6 @@ const devesh = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=devesh-2004&theme=onedark&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devesh-2004/devesh-2004/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/devesh-2004/devesh-2004/blob/output/github-snake.svg" />
-  <img src="https://github.com/devesh-2004/devesh-2004/blob/output/github-snake.svg" alt="contribution snake" />
-</picture>
-
-</div>
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
